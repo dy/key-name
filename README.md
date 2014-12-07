@@ -8,7 +8,7 @@ Just a list of keycodes for keynames:
 * <kbd>clear</kbd>
 * <kbd>context</kbd>
 * <kbd>⌘</kbd>, <kbd>cmd</kbd>, <kbd>command</kbd>
-* <kbd>⌃</kbd>, <kbd>ctrl</kbd>,	</kbd>control</kbd>
+* <kbd>⌃</kbd>, <kbd>ctrl</kbd>, <kbd>control</kbd>
 * <kbd>del</kbd>, <kbd>delete</kbd>
 * <kbd>down</kbd>
 * <kbd>end</kbd>
