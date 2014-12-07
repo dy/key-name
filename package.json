@@ -1,0 +1,34 @@
+{
+  "name": "key-name",
+  "version": "0.0.0",
+  "description": "Dict of keycodes for keynames",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dfcreative/key-name.git"
+  },
+  "keywords": [
+    "keycode",
+    "char",
+    "keyname",
+    "keyboard",
+    "which",
+    "metakey",
+    "command",
+    "control",
+    "shortcut"
+  ],
+  "author": {
+    "name": "Deema Yvanow",
+    "email": "dfcreative@gmail.com",
+    "url": "http://github.com/dfcreative"
+  },
+  "license": "unlicensed",
+  "bugs": {
+    "url": "https://github.com/dfcreative/key-name/issues"
+  },
+  "homepage": "https://github.com/dfcreative/key-name"
+}
