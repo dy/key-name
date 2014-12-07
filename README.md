@@ -4,18 +4,22 @@ Just a list of keycodes for keynames:
 
 * `⌥`, `alt`, `option`
 * `backspace`
+* `capslock`, `caps`
 * `clear`
+* `context`
 * `⌘`, `cmd`, `command`
-* `⌃`, `ctrl`, `control`
+* `⌃`, `ctrl`,	`control`
 * `del`, `delete`
 * `down`
 * `end`
 * `⎆`, `enter`, `return`
 * `esc`, `escape`
 * `home`
+* `insert`
 * `left`
-* `pagedown`
-* `pageup`
+* `pagedown`, `pg-down`
+* `pageup`, `pg-up`
+* `pause`
 * `right`
 * `⇧`, `shift`
 * `space`
@@ -39,17 +43,16 @@ Just a list of keycodes for keynames:
 * `*`
 * `+`, `plus`
 * `-`, `minus`
-* `;`
-* `=`
+* `;`, `semicolon`
+* `=`, `equals`
 * `,`
+* `dash`
 * `.`
 * `/`
-* ```
+* `````, `~`
 * `[`
 * `\\`
 * `]`
 * `'`
-
-
 
 [![NPM](https://nodei.co/npm/key-name.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/key-name/)
