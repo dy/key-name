@@ -1,6 +1,6 @@
 {
   "name": "key-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dict of keycodes for keynames",
   "main": "index.json",
   "scripts": {
