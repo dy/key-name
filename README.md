@@ -1,8 +1,6 @@
 # Key-name <a href="http://unlicense.org/UNLICENSE"><img src="http://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" width="20"/></a>
 
-Just a list of keycodes for keynames.
-
-Keys names:
+Just a list of keycodes for keynames:
 
 * `⌥`, `alt`, `option`
 * `backspace`
