@@ -21,7 +21,6 @@ Just a list of keycodes for keynames:
 * `space`
 * `tab`
 * `up`
-
 * `F1`
 * `F2`
 * `F3`
@@ -34,11 +33,9 @@ Just a list of keycodes for keynames:
 * `F10`
 * `F11`
 * `F12`
-
 * `leftmouse`
 * `rightmouse`
 * `middlemouse`
-
 * `*`
 * `+`, `plus`
 * `-`, `minus`
@@ -52,6 +49,7 @@ Just a list of keycodes for keynames:
 * `\\`
 * `]`
 * `'`
+
 
 
 [![NPM](https://nodei.co/npm/key-name.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/key-name/)
