@@ -49,7 +49,7 @@ Just a list of keycodes for keynames:
 * `dash`
 * `.`
 * `/`
-* `````, `~`
+* `` ` ``, `~`
 * `[`
 * `\\`
 * `]`
